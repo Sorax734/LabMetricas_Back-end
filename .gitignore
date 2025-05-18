@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Archivos de log
+*.log
+
+# Archivos temporales (~)
+*~
+
+# Ignorar prueba específica
+src/test/java/com/labMetricas/LabMetricas/LabMetricasApplicationTests.java

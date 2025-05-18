@@ -8,6 +8,6 @@ public class LabMetricasApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LabMetricasApplication.class, args);
+		System.out.println("Hola Mundo");
 	}
-
 }

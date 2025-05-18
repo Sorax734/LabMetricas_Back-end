@@ -10,4 +10,9 @@ class LabMetricasApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void test()	{
+		System.out.println("Hello World");
+	}
+
 }
